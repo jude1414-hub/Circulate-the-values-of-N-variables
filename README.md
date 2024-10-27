@@ -34,7 +34,7 @@ def circulate():
 ```
 
 ## Output:
-![EXP-2_ CR Circulate n variables_ Attempt review _ SEC](https://github.com/user-attachments/assets/d2666751-f04b-485b-8018-9d9f9c5211e5)
+![Screenshot 2024-10-27 112009](https://github.com/user-attachments/assets/b925a8b6-dbd1-4982-81c3-653ea3287508)
 
 
 ## Result:
